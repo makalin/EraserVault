@@ -16,7 +16,7 @@ EraserVault is a Python-based tool designed to securely delete files and directo
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/EraserVault.git
+   git clone https://github.com/makalin/EraserVault.git
    cd EraserVault
    ```
 
